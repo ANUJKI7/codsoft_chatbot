@@ -27,7 +27,7 @@ random module for jokes & facts
 
 Clone the repository
 
-git clone https://github.com/your-ANUJK17/codsoft_chatbot.git
+git clone https://github.com/ANUJK17/codsoft_chatbot.git
 
 
 Navigate to the project folder
